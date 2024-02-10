@@ -1,0 +1,143 @@
+Arrays
+https://www.interviewbit.com/problems/maximum-sum-triplet/
+https://www.interviewbit.com/problems/maximum-absolute-difference/
+https://www.interviewbit.com/problems/maximum-area-of-triangle/
+https://www.interviewbit.com/problems/merge-intervals/
+https://www.interviewbit.com/problems/merge-overlapping-intervals/
+https://www.interviewbit.com/problems/triplets-with-sum-between-given-range/
+*https://www.interviewbit.com/problems/find-duplicate-in-array/
+*https://www.interviewbit.com/problems/maximum-consecutive-gap/
+https://www.interviewbit.com/problems/largest-number/
+https://www.interviewbit.com/blog/next-permutation-problem/
+https://www.interviewbit.com/problems/maximum-unsorted-subarray/
+*https://www.interviewbit.com/problems/first-missing-integer/
+https://www.interviewbit.com/problems/n3-repeat-number/
+https://www.interviewbit.com/problems/set-intersection/
+
+Math
+https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/
+https://www.interviewbit.com/problems/next-smallest-palindrome/
+https://www.interviewbit.com/blog/trailing-zeroes-in-factorial/
+*https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats/hints/
+*https://www.interviewbit.com/problems/numbers-of-length-n-and-value-less-than-k/
+*https://www.interviewbit.com/problems/city-tour/
+https://www.interviewbit.com/problems/k-th-permutation/
+
+Binary_Search
+*https://www.interviewbit.com/problems/red-zone/
+*https://www.interviewbit.com/problems/simple-queries/
+https://www.interviewbit.com/problems/implement-power-function/
+*https://www.interviewbit.com/problems/median-of-array/
+
+Strings
+*KMP, https://www.scaler.com/topics/data-structures/kmp-algorithm/
+*https://www.interviewbit.com/problems/stringoholics/ , https://leetcode.com/problems/repeated-substring-pattern/ 
+*https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/
+https://www.interviewbit.com/problems/minimum-appends-for-palindrome/
+*https://www.interviewbit.com/problems/longest-palindromic-substring/
+*https://www.interviewbit.com/problems/valid-ip-addresses/
+https://www.interviewbit.com/problems/pretty-json/
+
+Bit_Manipulation
+*https://www.interviewbit.com/problems/divide-integers/ , https://leetcode.com/problems/divide-two-integers/discuss/13407/C%2B%2B-bit-manipulations (bit manipulation approach)
+https://www.interviewbit.com/problems/different-bits-sum-pairwise/
+https://www.interviewbit.com/problems/count-total-set-bits/
+*https://www.interviewbit.com/problems/palindromic-binary-representation/
+https://www.interviewbit.com/problems/single-number-ii/
+
+Two_Pointers
+https://www.interviewbit.com/problems/counting-triangles/ (sorted_two_pointer)
+https://www.interviewbit.com/problems/maximum-ones-after-modification/ (unsorted_two_pointer)
+https://www.interviewbit.com/problems/counting-subarrays/ (sliding_window_two_pointer)
+https://www.interviewbit.com/problems/array-3-pointers/
+https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/
+
+Linked_List
+https://www.interviewbit.com/problems/palindrome-list/
+https://www.interviewbit.com/problems/reorder-list/
+https://www.interviewbit.com/problems/list-cycle
+(Floyd's Cycle Detection) https://www.codingninjas.com/codestudio/library/floyds-cycle-finding-algorithm
+
+Stacks_And_Queues
+https://www.interviewbit.com/problems/min-stack/hints/ (check ltwt solution)
+https://www.interviewbit.com/problems/maxspprod/
+https://www.interviewbit.com/problems/largest-rectangle-in-histogram/, https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/1727776/JavaC%2B%2B-Explanation-going-from-Brute-to-Optimal-Approach
+*https://www.interviewbit.com/problems/sliding-window-maximum/, https://cplusplus.com/reference/deque/deque/
+*https://www.interviewbit.com/problems/hotel-service/
+
+Backtracking
+
+Heaps/Maps
+https://www.interviewbit.com/problems/ways-to-form-max-heap/
+https://www.interviewbit.com/problems/n-max-pair-combinations/
+
+Dynamic_Programming
+//DP tricky full section, IB
+https://www.interviewbit.com/problems/dice-throw/
+https://www.interviewbit.com/problems/double-increasing-series/
+https://www.interviewbit.com/problems/count-permutations-of-bst/
+*https://www.interviewbit.com/problems/sub-matrices-with-sum-zero/
+*https://www.interviewbit.com/problems/max-edge-queries/
+*https://www.interviewbit.com/problems/shortest-common-superstring/
+*https://www.interviewbit.com/problems/ways-to-color-a-3xn-board/
+*https://www.interviewbit.com/problems/tushars-birthday-bombs/
+*https://www.interviewbit.com/problems/scramble-string/
+*https://www.interviewbit.com/problems/regular-expression-match/, (related)https://leetcode.com/problems/regular-expression-matching/, https://leetcode.com/problems/regular-expression-matching/discuss/5684/C%2B%2B-O(n)-space-DP
+https://www.interviewbit.com/problems/min-jumps-array/
+https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/
+https://shengqianliu.me/dynamic-programming/largest-area-of-rectangle-with-permutations
+*https://cses.fi/problemset/task/2413, http://cfrp.azurewebsites.net/blog/entry/70018, https://usaco.guide/problems/cses-1073-towers/solution
+https://cses.fi/problemset/task/1746
+https://cses.fi/problemset/task/1093
+https://cses.fi/problemset/task/1145, https://usaco.guide/gold/lis?lang=cpp#fast-solution (n*log(n))
+
+Graphs
+*https://www.interviewbit.com/problems/hotel-service/
+https://www.topcoder.com/thrive/articles/kosarajus-algorithm-for-strongly-connected-components
+*https://www.interviewbit.com/problems/good-graph/
+*https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/
+
+Extra_Stuff
+https://www.topcoder.com/thrive/articles/count-inversions-in-an-array
+https://takeuforward.org/data-structure/count-inversions-in-an-array/
+https://www.quora.com/How-do-I-solve-maximum-product-subarray-problems
+https://cses.fi/problemset/task/1625
+https://usaco.guide/gold/lis?lang=cpp#fast-solution
+http://cfrp.azurewebsites.net/blog/entry/70018
+https://www.codechef.com/problems/ODDDIV?tab=statement
+https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html
+https://codeforces.com/blog/entry/90939
+[14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+https://www.geeksforgeeks.org/path-rectangle-containing-circles/
+sweep-line algorithm
+multisets(set with multiple elements of same value, sorted order, logarithmic insertion, deletion, access)
+https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
+https://cp-algorithms.com/
+https://www.quora.com/Is-it-true-that-every-natural-number-can-be-written-as-a-sum-of-Fibonacci-numbers
+https://en.wikipedia.org/wiki/Zeckendorf%27s_theorem
+Clean Code, Effective Java
+https://cp-algorithms.com/string/z-function.html#efficient-algorithm-to-compute-the-z-function
+
+Core_Subjects
+https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/
+https://www.geeksforgeeks.org/lmns-gq/
+interviewbit sql practice
+
+
+/***********************
+
+1800-2200 LC
+
+Difference Array    
+BIT Tree (Fenwick Tree)
+Basic Math, such as the Sieve algorithm and inverse modular
+Trie
+Advance String Algorithms, such as KMP and Rolling Hash
+Monotonic Stack
+Sliding Window
+Bit Manipulation
+Union Set
+Bitmask DP
+Graph Algorithm, such as Floyd Algorithm, and Minimal Spanning Tree.
+
+**************************/
